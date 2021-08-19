@@ -104,4 +104,7 @@ goto
 11.select Type:HTTP
 12.select Source -> Anywhere
 13.click save
-14.Now goto instances 
+14.Now goto instances from side pane
+15.Select the running instance and copy Public DNS 
+16.Paste it in Browser new tab
+Done!
